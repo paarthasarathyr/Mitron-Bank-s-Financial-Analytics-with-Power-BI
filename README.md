@@ -1,4 +1,4 @@
-In response to Codebasics Team's Resume Change Challenge, I have successfully developed insightful analytics using the Power BI tool.
+In response to Codebasics Team's Resume Challenge, I have successfully developed insightful analytics using the Power BI tool.
 
 This project focuses on creating a dynamic and visually appealing dashboard that showcases key metrics and financial insights. 
 
